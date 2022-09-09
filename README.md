@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Lorenzo
--
+- 👋 Hi there, I’m Lorenzo
 
 <!---
 Lory147/Lory147 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
